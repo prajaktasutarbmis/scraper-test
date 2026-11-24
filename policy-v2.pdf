@@ -1,0 +1,55 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 493 >>
+stream
+BT
+/F1 16 Tf
+72 720 Td
+(Anthem Provider Policy - TEST DOCUMENT) Tj
+0 -24 Td
+() Tj
+0 -24 Td
+(Version 2 \(UPDATED content\)) Tj
+0 -24 Td
+(Policy ID: TEST-POL-0001) Tj
+0 -24 Td
+(Effective date: 2026-06-01   <-- changed) Tj
+0 -24 Td
+() Tj
+0 -24 Td
+(This is a synthetic test file for scraper validation.) Tj
+0 -24 Td
+(The body text changed, so the SHA-256 content hash changes too.) Tj
+0 -24 Td
+(A re-scrape should reopen this to Pending Review) Tj
+0 -24 Td
+(unless it was Strictly Rejected.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000791 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+861
+%%EOF
