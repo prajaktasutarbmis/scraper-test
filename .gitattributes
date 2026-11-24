@@ -1,0 +1,8 @@
+# PDFs are binary — never apply line-ending conversion (it corrupts them and
+# changes their SHA-256, which the scraper uses for change detection).
+*.pdf binary
+
+# Text files: normalize to LF in the repo.
+*.html text eol=lf
+*.md   text eol=lf
+*.py   text eol=lf
